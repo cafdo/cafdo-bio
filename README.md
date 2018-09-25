@@ -1,1 +1,2 @@
 # cafdo-bio
+I'm started a sprign-boot web project in order to synchronize both profiles services, in one hand Bio Profile and in the other Linked In profile, the idea was that after the user logon in the web site, the user was asked what kind of information want to sincronize: general data, jobs, project, and so on...the user will be asked if he want to synchronize from Linked In to Bio or from Bio to Linked In; and the question will be between every aspect of the profile, as I mentioned before.
